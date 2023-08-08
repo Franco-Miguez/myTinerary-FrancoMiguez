@@ -12,12 +12,12 @@ export default function Carousel() {
                         setPosition(position-1)
                       console.log(position)}
   return (
-  <div className="grid grid-rows-2 grid-cols-2 place-content-center gap-2 w-[27rem] relative">
+  <div className="grid grid-rows-2 grid-cols-2 place-content-center gap-2 w-[19rem] md:w-[27rem] xl:w-[40.5rem] relative">
       {data.slice(position*4,position*4+4).map((info, key)=>{
         return (
-          <div key={key} className="relative w-52">
-            <img src={info.img} alt={info.city} className="w-52 h-52 object-cover rounded-md"/>
-            <div className="bg-dark bg-opacity-80 absolute z-10 left-0 bottom-0 w-52 text-white text-center rounded-b-md">
+          <div key={key} className="relative w-36 md:w-52 xl:w-80">
+            <img src={info.img} alt={info.city} className="w-36 h-36 md:w-52 md:h-52 xl:w-80 xl:h-80 object-cover rounded-md"/>
+            <div className="bg-dark bg-opacity-80 absolute z-10 left-0 bottom-0 w-36 md:w-52 xl:w-80 text-white text-center rounded-b-md">
               <h3 className="text-lg font-bold">{info.city}</h3>
               <h4 className="text-sm opacity-50">{info.country}</h4>
             </div>

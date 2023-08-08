@@ -5,6 +5,7 @@ export default function Home({children}) {
     return(
     <>
       <NavBar/>
+      <NavBar.Mobile/>
       {children}
       <Footer/>
     </>
