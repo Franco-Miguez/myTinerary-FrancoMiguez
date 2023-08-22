@@ -1,62 +1,142 @@
 [
-    {
-        "country" : "Japon",
-        "city": "Tokyo",
-        "img" : "https://img.freepik.com/foto-gratis/santuario-fushimi-inari-kioto-japon_335224-87.jpg"
-    },
-    {
-        "country" : "USA",
-        "city" : "New York",
-        "img" : "https://img.freepik.com/fotos-premium/estatua-libertad-sobre-escena-lado-rio-paisaje-urbano-nueva-york-cuya-ubicacion-es-mas-baja-manhattan_41418-3385.jpg"
-    },
-    {
-        "country": "Paris",
-        "city": "France",
-        "img" : "https://img.freepik.com/foto-gratis/hermosa-panoramica-torre-eiffel-paris-rodeada-agua-barcos-cielo-colorido_181624-5118.jpg"
-    },
-    {
-        "country":"England",
-        "city" : "London",
-        "img" : "https://img.freepik.com/foto-gratis/big-ben-puente-westminster-al-atardecer-londres-reino-unido_268835-1395.jpg"
-    },
-    {
-        "country":"Italia",
-        "city":"Roma",
-        "img":"https://img.freepik.com/foto-gratis/tiro-angulo-famoso-coliseo-roma-italia-cielo-brillante_181624-7244.jpg"
-    },
-    {
-        "country" : "Japon",
-        "city": "Tokyo",
-        "img" : "https://picsum.photos/300/300"
-    },
-    {
-        "country" : "USA",
-        "city" : "New York",
-        "img" : "https://picsum.photos/300/300"
-    },
-    {
-        "country": "Paris",
-        "city": "France",
-        "img" :"https://picsum.photos/300/300"
-    },
-    {
-        "country":"England",
-        "city" : "London",
-        "img" : "https://picsum.photos/300/300"
-    },
-    {
-        "country":"Italia",
-        "city":"Roma",
-        "img":"https://picsum.photos/300/300"
-    },
-    {
-        "country":"England",
-        "city" : "London",
-        "img" : "https://picsum.photos/300/300"
-    },
-    {
-        "country":"Italia",
-        "city":"Roma",
-        "img":"https://picsum.photos/300/300"
-    }
+  {
+    "city": "Mexico City",
+    "img": "https://media.gettyimages.com/id/638921947/es/foto/mexico-city-mexico.webp?s=612x612&w=gi&k=20&c=Mur8grtEPkuDGDlOmKk9BqsiiOOoPk3yvxLeghVzsqY=",
+    "country": "Mexico",
+    "language": "Spanish",
+    "currency": "Mexican Peso (MXN)"
+  },
+  {
+    "city": "Tokyo",
+    "img": "https://imgs.search.brave.com/RBcfT6O9knwiCdtI3sT_WGdt-fYwy2A4UOqMoLAIl7E/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvMTA1/Nzc0MTM1Ni9waG90/by9yYWluYm93LWJy/aWRnZS1hbmQtc2t5/bGluZS1hdC1zdW5z/ZXQtdG9reW8tamFw/YW4uanBnP3M9NjEy/eDYxMiZ3PTAmaz0y/MCZjPUdWY0MyTlZB/YkdDNG1mdnhJYWlY/WEp6bUxheENnck9z/VGlESzZqZ3FlSnc9tokyo.jpg",
+    "country": "Japan",
+    "language": "Japanese",
+    "currency": "Japanese Yen (JPY)"
+  },
+  {
+    "city": "Paris",
+    "img": "https://imgs.search.brave.com/XrKxZQAvbxbYT2L-DJP6elEmWV5oOYsJPbZBZnSdd64/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvOTI0/ODkxNDYwL3Bob3Rv/L2VpZmZlbC10b3dl/ci1pbi1wYXJpcy1m/cmFuY2UuanBnP3M9/NjEyeDYxMiZ3PTAm/az0yMCZjPXdoV01C/RF90NU1BbGw3bjZs/R2U2WTh5NDg1Y09h/ZUVzZkNvcTZ4WmhP/Sjg9",
+    "country": "France",
+    "language": "French",
+    "currency": "Euro (EUR)"
+  },
+  {
+    "city": "Beijing",
+    "img": "https://imgs.search.brave.com/hjygrM1ixmxSVWyAgvbMbe1WDgjwbmBOgCeQhii-u1M/rs:fit:860:0:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzAzLzY5LzM4LzE5/LzM2MF9GXzM2OTM4/MTk1N19UeFdZNXhY/STBsN2hrTnpBdHNT/Y1pYdkRQVzlhRWlL/WS5qcGc",
+    "country": "China",
+    "language": "Mandarin Chinese",
+    "currency": "Chinese Yuan (CNY)"
+  },
+  {
+    "city": "Moscow",
+    "img": "https://imgs.search.brave.com/Vzwmb3Mk1LmeVw3B5msPoRev7HPGCo4kfVtsOoFEDfM/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMTg1/MDgwOTE2L3Bob3Rv/L21vc2Nvdy1jaXR5/c2NhcGUtaW4td2lu/dGVyLmpwZz9zPTYx/Mng2MTImdz0wJms9/MjAmYz15RTFuUFZX/MTJ2dkhTdEV0RWxz/THhhS1ozRDNiaVZ3/a0NiX3dnZ3kyT0Rz/PQ",
+    "country": "Russia",
+    "language": "Russian",
+    "currency": "Russian Ruble (RUB)"
+  },
+  {
+    "city": "Sydney",
+    "img": "https://imgs.search.brave.com/bb-MDJkY7HclEPwYVdrZMvvaO8kGf4lnu0Vsnjezwq4/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvNDY4/OTk0MjM5L3Bob3Rv/L3N5ZG5leS5qcGc_/cz02MTJ4NjEyJnc9/MCZrPTIwJmM9MTZB/bkg3MFNhYUhoMDJH/elRTckl0RXhyRE5Y/bTNaVTFYbnJ6TDhS/bzZQVT0",
+    "country": "Australia",
+    "language": "English",
+    "currency": "Australian Dollar (AUD)"
+  },
+  {
+    "city": "Rio de Janeiro",
+    "img": "https://imgs.search.brave.com/cNcjx4ELvjphblc-kv4ug5yyPYi2dVvVxf8QZR1dqoc/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvMjAw/MTY4NDcyLTAwMS9w/aG90by9icmF6aWwt/cmlvLWRlLWphbmVp/cm8tY3Jpc3RvLXJl/ZGVudG9yLW9uLWNv/cmNvdmFkby5qcGc_/cz02MTJ4NjEyJnc9/MCZrPTIwJmM9Y2dZ/dmtYLUpBckZmQjUy/SXRNVlRCOW1aLWxG/NHZwRUtpcFFaU1Zn/RHBLND0",
+    "country": "Brazil",
+    "language": "Portuguese",
+    "currency": "Brazilian Real (BRL)"
+  },
+  {
+    "city": "Cairo",
+    "img": "https://imgs.search.brave.com/bT46IiphTVrWvo5hOFPxDiTKzB60m_6dJZA1ma2dz_0/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvMTE3/NzI2MzQ0L3Bob3Rv/L2NhaXJvLWVneXB0/LmpwZz9zPTYxMng2/MTImdz0wJms9MjAm/Yz16VkpiUDBJTnRR/YlpjSHVhS1RWSVc5/OHpKZWJCLTJRZS1v/X3hrWFZDSGxvPQcairo.jpg",
+    "country": "Egypt",
+    "language": "Arabic",
+    "currency": "Egyptian Pound (EGP)"
+  },
+  {
+    "city": "Rome",
+    "img": "https://imgs.search.brave.com/aqJHLyL_Lc3NxAaYNiWQB_atTLNYmuwCQGgDUcbB67U/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMTQ4/MTI1OTU5L3Bob3Rv/L3JvbWFuLXJ1aW5z/LWluLXJvbWUtZm9y/dW0uanBnP3M9NjEy/eDYxMiZ3PTAmaz0y/MCZjPW9IRUw0eWlB/ZjB5Z0x6MkNGR1VK/S042dk5kam1qeUtn/VEpsVWJKTERuRG89rome.jpg",
+    "country": "Italy",
+    "language": "Italian",
+    "currency": "Euro (EUR)"
+  },
+  {
+    "city": "New York City",
+    "img": "https://imgs.search.brave.com/8QsPQy9LBiLFrnxjuaV_5LkQJSe3PC5Znv1DqBN2saE/rs:fit:860:0:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzAxLzI2LzIxLzYx/LzM2MF9GXzEyNjIx/NjE1N19OTWNVaEsx/aU9ndzJhc3JvUmFY/MDY4NmlZZ2piZE1O/ci5qcGcnew_york_city.jpg",
+    "country": "USA",
+    "language": "English",
+    "currency": "US Dollar (USD)"
+  },
+  {
+    "city": "Berlin",
+    "img": "https://imgs.search.brave.com/ihJlUn73eZF2VH2TqijZAhShsJJCJQisdguXhb6ExbY/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvODM1/ODIxODEwL3Bob3Rv/L3RoZS1jZW50ZXIt/b2YtYmVybGluLmpw/Zz9zPTYxMng2MTIm/dz0wJms9MjAmYz0w/aHVsUi0zLTlZVVl2/SVh5bjRrc3VSLVRn/WFl0TVZlTVVCX1Fu/R2hjaXpRPQberlin.jpg",
+    "country": "Germany",
+    "language": "German",
+    "currency": "Euro (EUR)"
+  },
+  {
+    "city": "Seoul",
+    "img": "https://imgs.search.brave.com/CFCFcYLF4iBL8sP7r5BfYshBtBlEhg-Uepcdgn20hI0/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvNDY0/NjI5Mzg1L3Bob3Rv/L3Nlb3VsLXNreWxp/bmUuanBnP3M9NjEy/eDYxMiZ3PTAmaz0y/MCZjPVdvOUxZeGs2/TDl6MFZPUlBrTXhq/dWJNY0FaZldBSnRS/SldWZmlKUjhqbXc9seoul.jpg",
+    "country": "South Korea",
+    "language": "Korean",
+    "currency": "South Korean Won (KRW)"
+  },
+  {
+    "city": "Buenos Aires",
+    "img": "https://imgs.search.brave.com/xwi3tlHK60emejy50uRI2oyzi1mmS7eU-ZrCjr7RNXU/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvNDcx/NjAzNDk3L2VzL2Zv/dG8vb2JlbGlzY28t/ZGUtYnVlbm9zLWFp/cmVzLmpwZz9zPTYx/Mng2MTImdz0wJms9/MjAmYz1nN29sWnBi/U3RZdU9fRHJzV1pp/cHVVdXVLRmxOYkV6/R3pZR1hjRmM5R2hr/PQ",
+    "country": "Argentina",
+    "language": "Spanish",
+    "currency": "Argentine Peso (ARS)"
+  },
+  {
+    "city": "Toronto",
+    "img": "https://imgs.search.brave.com/B0BfPzm5k7pLT9mrcL4FfAnTTTyBFSfkME7eyKx3UQk/rs:fit:860:0:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzAwLzgyLzk3Lzc0/LzM2MF9GXzgyOTc3/NDU2X20xOEdjNldR/NjZKWmdEb1FTQkFz/d0oyY291Tkc1ekZp/LmpwZw",
+    "country": "Canada",
+    "language": "English",
+    "currency": "Canadian Dollar (CAD)"
+  },
+  {
+    "city": "Cape Town",
+    "img": "https://imgs.search.brave.com/hWn9BgKdCh48-8Bzl7LwOHmZbN_eRzYMFjJe_KGUlTk/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvODk4/MTg1ODA0L3Bob3Rv/L2NhcGUtdG93bi5q/cGc_cz02MTJ4NjEy/Jnc9MCZrPTIwJmM9/MXo4QURrcDdhRnVa/ZE1Nd1I5aUs0UnFt/cXMzdUhqZDNRU0xC/VnFYNDBGUT0",
+    "country": "South Africa",
+    "language": "Multiple",
+    "currency": "South African Rand (ZAR)"
+  },
+  {
+    "city": "Bangkok",
+    "img": "https://imgs.search.brave.com/6d_1-kv_C1A5ZNQw6ZMjPbfds5UaOnX4kmMq7ZzOIyY/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMTMw/NjA3NTM0MS9waG90/by9iYW5na29rLWNp/dHktdGhhaWxhbmQu/anBnP3M9NjEyeDYx/MiZ3PTAmaz0yMCZj/PTNQWUxKODJ6V3JG/ZjlQbjk4cmxreGdo/UFV4TDhsS1FvRlVJ/LUlPc1czZjg9",
+    "country": "Thailand",
+    "language": "Thai",
+    "currency": "Thai Baht (THB)"
+  },
+  {
+    "city": "Istanbul",
+    "img": "https://imgs.search.brave.com/EmqJp5C_o9bG5ObPiT0dkYX6K1MxpTjmjTioSyOddS0/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvNDU4/MDEyMDU3L3Bob3Rv/L2lzdGFuYnVsLXR1/cmtleS5qcGc_cz02/MTJ4NjEyJnc9MCZr/PTIwJmM9cW9nQU9W/dmtwZlV5cUxVTXJf/WEpReXEtSGtBQ1h5/WVVTWmJLaEJsUHJ4/bz0istanbul.jpg",
+    "country": "Turkey",
+    "language": "Turkish",
+    "currency": "Turkish Lira (TRY)"
+  },
+  {
+    "city": "Dubai",
+    "img": "https://imgs.search.brave.com/te5X7SZ1gBrtrHAhFPAhOozcz-cCFkYpO1NR9F1JUDU/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvMTU3/NjA0MzcwL3Bob3Rv/L2Rvd250b3duLWR1/YmFpLmpwZz9zPTYx/Mng2MTImdz0wJms9/MjAmYz1DR0dzSXR2/cDZnVTY0TTY0elc1/NDZ3M2pBU0RXVWU1/UmQ2WVpFOFRTa3c0/PQdubai.jpg",
+    "country": "UAE",
+    "language": "Arabic",
+    "currency": "UAE Dirham (AED)"
+  },
+  {
+    "city": "Amsterdam",
+    "img": "https://imgs.search.brave.com/c3kh5q_rO7J6evKoI_7norZ1zlz5hNBx7LPUcCOfREg/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvNTIx/NzkwMjk0L3Bob3Rv/L2Ftc3RlcmRhbS1z/dC1uaWNvbGFhc2tl/cmstdmlldy1mcm9t/LWNhbmFsLmpwZz9z/PTYxMng2MTImdz0w/Jms9MjAmYz1JQ3pF/Wlk0N25PcndTaGNM/dGdmMUpsTHNqM2Q2/bkhBMHNIVDVTWlQ0/aXJvPQamsterdam.jpg",
+    "country": "Netherlands",
+    "language": "Dutch",
+    "currency": "Euro (EUR)"
+  },
+  {
+    "city": "Mumbai",
+    "img": "https://imgs.search.brave.com/6Nhi3d2obXO_Xdl5aCpD0p54e4RPLnyBarY9amXGdAY/rs:fit:860:0:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzAwLzIwLzAyLzE5/LzM2MF9GXzIwMDIx/OTc2X3U0a0V6cE5p/ZVlNYkdWVDZEZWFa/aTJpQ3FoRjlSZkpC/LmpwZwmumbai.jpg",
+    "country": "India",
+    "language": "Hindi",
+    "currency": "Indian Rupee (INR)"
+  }
 ]
