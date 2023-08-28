@@ -4,7 +4,7 @@ import {BsFillArrowLeftCircleFill,BsFillArrowRightCircleFill} from 'react-icons/
 
 export default function Carousel() {
   const [position,setPosition] = useState(0)
-  const next = () => {data.length % 4+1 >= position ?
+  const next = () => {data.length / 5 > position ?
                         setPosition(position + 1):
                         setPosition(0)}
   const back = () => {position == 0?
@@ -16,7 +16,7 @@ export default function Carousel() {
       {data.slice(position*4,position*4+4).map((info, key)=>{
         return (
           <div key={key} className="relative w-36 md:w-52 xl:w-80">
-            <img src={info.img} alt={info.city} className="w-36 h-36 md:w-52 md:h-52 xl:w-80 xl:h-80 object-cover rounded-md"/>
+            <img src={info.img+ "?auto=compress&cs=tinysrgb&w=600"} alt={info.city} className="w-36 h-36 md:w-52 md:h-52 xl:w-80 xl:h-80 object-cover rounded-md"/>
             <div className="bg-dark bg-opacity-80 absolute z-10 left-0 bottom-0 w-36 md:w-52 xl:w-80 text-white text-center rounded-b-md">
               <h3 className="text-lg font-bold">{info.city}</h3>
               <h4 className="text-sm opacity-50">{info.country}</h4>

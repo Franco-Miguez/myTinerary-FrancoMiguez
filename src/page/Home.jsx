@@ -6,7 +6,7 @@ import Carousel from '../components/Carousel'
 export default function Index() {
   return (
     <>
-      <Layout>
+    
         <section className='flex flex-col-reverse lg:flex-row min-h-screen items-center justify-center px-4 lg:px-20 gap-4
         bg-[url(https://images.pexels.com/photos/2162685/pexels-photo-2162685.jpeg)] bg-cover'>
           <div className='p-4 flex flex-col gap-3 bg-white rounded-md bg-opacity-50'>
@@ -19,11 +19,9 @@ export default function Index() {
             alt="two people see a map"
             className='object-cover  md:w-5/12 rounded-xl shadow- xl'/>
         </section>
-        <section className='flex justify-center items-center min-h-screen xl:py-8
-        bg-[url(https://img.freepik.com/foto-gratis/ala-avion-ciudad-fondo_1232-1308.jpg?w=740&t=st=1691500621~exp=1691501221~hmac=1284f85a7870e85ae42e2074ab8c6e231b3fd7827463da0ab7a77838cee704ae)] bg-cover'>
+        <section className='flex justify-center items-center min-h-screen xl:py-8 bg-blue-500 bg-opacity-80'>
           <Carousel/>
         </section>
-      </Layout>
     </>
   )
 }
