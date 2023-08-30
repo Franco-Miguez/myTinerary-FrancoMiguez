@@ -1,4 +1,3 @@
-import Layout from '../layouts/Layout'
 import Button from '../components/Button'
 import PGrey from '../components/PGrey'
 import Carousel from '../components/Carousel'

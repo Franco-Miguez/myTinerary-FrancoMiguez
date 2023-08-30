@@ -1,3 +1,19 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@keyframes scale-infinite {
+  0%, 100%{
+    transform: scale(1);
+    filter: grayscale(50%);
+  }
+
+  50%{
+    transform: scale(1.1);
+    filter: grayscale(0%);
+  }
+}
+
+.animate-pulse-infinite{
+  animation: scale-infinite 3s infinite;
+}
